@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="input_text">Написать сообщение…</string>
+    <string name="btn_text">Отправить</string>
+    <string name="back_btn">Вернуться</string>
+    <string name="liner_btn">Чат на LinerLayout</string>
+    <string name="constraint_btn">Чат на ConstraintLayout</string>
+    <string name="frame_btn">Image viewer на FrameLayout</string>
+
+
+    <string name="gleb_text1">Глеб: Привет, Андрей! Как твои дела?\n</string>
+    <string name="gleb_text2">Глеб: Рад слышать! Я тут думал, чем заняться на выходных.\n</string>
+    <string name="gleb_text3">Глеб: Есть идея сходить в новый парк, который открыли недавно. Как тебе?\n</string>
+    <string name="gleb_text4">Глеб: Отлично! Давай тогда в субботу утром?\n</string>
+    <string name="gleb_text5">Глеб: Супер! А ты какие развлечения в парке предпочитаешь?\n</string>
+    <string name="gleb_text6">Глеб: Звучит круто, я тоже люблю кататься на аттракционах.\n</string>
+    <string name="gleb_text7">Глеб: Да, я слышал, что там есть новый американские горки, которые очень популярны.\n</string>
+    <string name="gleb_text8">Глеб: Отличная идея, а после парка можем сходить куда-нибудь перекусить.\n</string>
+    <string name="gleb_text9">Глеб: Я знаю одно классное место неподалеку, где подают отличные бургеры.\n</string>
+    <string name="gleb_text10">Глеб: Звучит отлично! Договорились, тогда до встречи в субботу.\n</string>
+    <string name="gleb_text11">Глеб: Кстати, не забудь взять удобную обувь, там много ходить придется.\n</string>
+    <string name="gleb_text12">Глеб: Да, и еще возьми с собой воду, вдруг жарко будет.\n</string>
+    <string name="gleb_text13">Глеб: Прекрасно! До встречи тогда!\n</string>
+
+    <string name="andrey_text1">Андрей: Привет, Глеб! Дела отлично, спасибо. Как сам?\n</string>
+    <string name="andrey_text2">Андрей: Звучит интересно! Что ты придумал?\n</string>
+    <string name="andrey_text3">Андрей: Новый парк? Я слышал о нем, говорят, там классно.\n</string>
+    <string name="andrey_text4">Андрей: В субботу утром? Договорились!\n</string>
+    <string name="andrey_text5">Андрей: Я люблю всякие аттракционы и просто гулять.\n</string>
+    <string name="andrey_text6">Андрей: Да, американские горки – это всегда круто! Надеюсь, не будет большой очереди.\n</string>
+    <string name="andrey_text7">Андрей: Конечно, можно будет еще и на другие аттракционы заглянуть.\n</string>
+    <string name="andrey_text8">Андрей: После парка перекусить – хорошая идея. Где предлагаешь?\n</string>
+    <string name="andrey_text9">Андрей: О, бургеры – это всегда отличное решение. Давай туда.\n</string>
+    <string name="andrey_text10">Андрей: Договорились, до встречи в субботу.\n</string>
+    <string name="andrey_text11">Андрей: Спасибо за совет, обязательно.\n</string>
+    <string name="andrey_text12">Андрей: Хорошо, воду возьму. До встречи!\n</string>
+    <string name="andrey_text13">Андрей: До встречи, Глеб!\n</string>
+</resources>
